@@ -1,0 +1,1 @@
+Use the equals `==` operator to form an expression that evaluates whether the `x` variable is equal to `10`. Assign the result of this expression to the `isEqualToTen` variable. Look at the example above if you get stuck.
